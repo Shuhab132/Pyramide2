@@ -1,4 +1,4 @@
-package kapitel_04;
+package pyramide2;
 
 /**
  * En boks med en længde, bredde og højde

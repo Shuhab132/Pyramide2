@@ -1,4 +1,4 @@
-package kapitel_04;
+package pyramide2;
 public class BenytBoks3
 {
 	public static void main(String[] arg)
